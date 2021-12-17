@@ -1,0 +1,10 @@
+1. Open ThreeDPoseUnityBarracuda-main\Assets\FinalprojectbyShaian.unity 
+
+- In play mode press the keyboard button ‘w’ to trigger the catwalk animation.
+- Press the keyboard button ‘d’ to trigger the dancing animation. 
+- Press the keyboard button ‘a’ to trigger the particle effects on the stage.
+
+
+2. The Google Slide Link: https://docs.google.com/presentation/d/1x3QczoZa7pM-oDleIX8WS0OXosat172Jx2Zo3cZPsUI/edit?usp=sharing 
+
+Thank you!
